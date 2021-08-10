@@ -19,7 +19,7 @@ var stefan = new Typed('.stefan', {
 
 
 var tristan = new Typed('.tristan', {
-    strings: ["Creating the next tasks inside gitlab..", "Writing some native code..", "Compiling sdk with gcc..", "Creating an unreal wrapper..", "Creating an unity wrapper.."],
+    strings: ["Creating the next tasks inside gitlab..", "Writing some native code..", "Compiling sdk with gcc..", "Creating Unreal wrapper..", "Creating Unity wrapper.."],
     typeSpeed: 40,
     startDelay: 1200,
     smartBackspace: true,
