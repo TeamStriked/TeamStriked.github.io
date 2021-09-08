@@ -65,7 +65,7 @@
                         </li>
                      </ul>
                   </div>
-                  <a class="button button-prime hide-on-mobile" href="#newsletter">Stay tuned</a>
+                  <a class="button button-prime hide-on-mobile" href="#newsletter">Kepe in touch!</a>
                </nav>
             </div>
          </header>
@@ -83,11 +83,7 @@
             <div class="block" id="usps">
                <h2>Transparency & Independence</h2>
                <p class="desc">
-                  Our business model gives you access to tools and services needed to
-                  scale your game infrastructure, increase your sales and build a
-                  strong and lasting community. A community fund is supporting early
-                  stage game ideas and marketing. Just focus on your creativity. We
-                  got your back.
+                  Our business model gives you access to tools and services that re needed to scale your game infrastructure, increase your sales, and build a strong and lasting community. Our community fund is supporting early stage game ideas and is an additional tool for marketing. Just focus on your creativity and let us deal with the rest. We got your back. 
                </p>
                <div class="items margin-top-60">
                   <div class="item">
@@ -96,9 +92,7 @@
                         service
                      </h3>
                      <p class="item-desc">
-                        Get easy access to our SDK interface which provides every
-                        solution needed to host, distribute and publish your game. Even
-                        if you need to scale, we can grow together.
+                        Our SDK provides easy access to our services and interfaces, which provides every solution needed to host, distribute, and publish your game. When you need to scale, we will grow together.
                      </p>
                   </div>
                   <div class="item">
@@ -106,9 +100,7 @@
                         <i class="fas fa-wallet item-icon-left"></i> Fair business model
                      </h3>
                      <p class="item-desc">
-                        With our dashboard you have a perfect overview of all
-                        interaction inside your gaming world. Based on a monthly payment
-                        you can keep 100% of your sales.
+                        On our dashboard you have a complete overview of all interactions inside your gaming community. You keep 100% of your sales and pay only a monthly fee.
                      </p>
                   </div>
                   <div class="item">
@@ -117,10 +109,7 @@
                         funding
                      </h3>
                      <p class="item-desc">
-                        To increase the diversity of gaming products we created a
-                        community fund to support early stage game ideas. Supporters
-                        will pay a monthly fee and can decide which prototype will be
-                        funded.
+                        We created a community fund to support early stage game ideas and increase the diversity of gaming products. Supporters pay a monthly fee and can vote, which prototype or idea will be funded.
                      </p>
                   </div>
                </div>
@@ -128,9 +117,7 @@
             <div id="features" class="block" style="margin-bottom: 0">
                <h2>Scale your gaming business</h2>
                <p class="desc">
-                  We help your gaming business to drive. With our infrastructure
-                  services we provide you access to tools and features that are
-                  helping your community to grow.
+                  We help your gaming business to thrive. Our infrastructure services are providing you with the tools and features that you need to grow your community.
                </p>
             </div>
          </div>
@@ -149,7 +136,7 @@
                      <i class="fas fa-download item-icon-top"></i>
                      <h3 class="h3-flex">Distribution</h3>
                      <p class="item-desc">
-                        Instant game delivery and version management.
+                        Deliver you game instantly and handle version management effortlessly.
                      </p>
                   </div>
                   <div class="item">
@@ -165,8 +152,7 @@
                      <i class="fas fa-rocket item-icon-top"></i>
                      <h3 class="h3-flex">Integration & Launcher</h3>
                      <p class="item-desc">
-                        Connect your community, protect your games and integrate tools
-                        and services.
+                        Connect your community, protect your games, and integrate tools and services.
                      </p>
                   </div>
                   <div class="item">
@@ -181,8 +167,7 @@
                      <i class="fas fa-window-restore item-icon-top"></i>
                      <h3 class="h3-flex">Game Overlay</h3>
                      <p class="item-desc">
-                        Connect your community through all devices and let them interact
-                        with each other.
+                        Connect your community on all devices and let them interact with each other. 
                      </p>
                   </div>
                </div>
@@ -192,7 +177,7 @@
             <div id="roadmap" class="block">
                <h2>Roadmap</h2>
                <p class="desc">
-                  We are happy to be supported by such amazing people on our journey.
+                  We are grateful for the support from many amazing people on our journey!
                </p>
                <div class="line" ></div>
                <div class="items margin-top-60">
@@ -200,29 +185,28 @@
                      <div class="circle success hide-on-mobile"></div>
                      <h3 class="h3-flex">EXIST-Funding</h3>
                      <p class="item-desc">
-                      We achieved our first milestone and and get supported by the german innovation program EXIST. 
-Lets go to work!
+                      We have reached our first milestone and and are officially funded by the German innovation program EXIST. Lets get to work!
                      </p>
                   </div>
                   <div class="item">
                      <div class="circle success hide-on-mobile"></div>
                      <h3 class="h3-flex">Prototyping</h3>
                      <p class="item-desc">
-                    We are very busy programming and creating our network with developers, gamers and investors to bring striked to life!
+                    Right now we are busy programming and building up our network with developers, gamers, and investors to bring Striked to life! 
                      </p>
                   </div>
                   <div class="item">
                      <div class="circle hide-on-mobile"></div>
                      <h3 class="h3-flex">Closed-Beta-Testing</h3>
                      <p class="item-desc">
-                   Our estimated start of the closed-beta Testing will be in February 2022. You add your company to the list by subscribing our newsletter!
+                   The estimated start of the closed-beta testing phase is February 2022. By subscribing to our newsletter you are putting yopur you can add your company to the waiting list!
                      </p>
                   </div>
                   <div class="item">
                      <div class="circle hide-on-mobile"></div>
                      <h3 class="h3-flex">Founding & Launch</h3>
                      <p class="item-desc">
-                      After EXIST we will be ready to launch and fund our company. Hopefully with you guys and board and top investors to conquer germany, europe and the rest of the world.
+                      Upon finishing the EXIST funding program we are ready to launch and found Striked. With the the support of you and our investors we are able to conquer Germany, Europe, and the rest of the world!
                      </p>
                   </div>
                </div>
