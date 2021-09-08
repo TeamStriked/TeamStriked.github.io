@@ -1,5 +1,5 @@
 var welcome = new Typed('.typing', {
-    strings: ["Welcome Devs and Gamers!", "Welcome to the new gaming experience.", "Welcome to striked."],
+    strings: ["Welcome devs and gamers!", "Welcome to a new gaming experience!", "Welcome to Striked!"],
     typeSpeed: 40,
     smartBackspace: true,
     backDelay: 1400,
@@ -8,7 +8,7 @@ var welcome = new Typed('.typing', {
 
 
 var stefan = new Typed('.stefan', {
-    strings: ["Writing an vulkan port for NodeJS..", "Creating some 3d primtives for our overlay..", "Rendering a font vertices for our graphics api.", "Building the electron launcher.."],
+    strings: ["Writing a Vulkan port for NodeJS...", "Creating some 3d primtives for our overlay...", "Rendering font vertices for our graphics API...", "Building the electron launcher..."],
     typeSpeed: 40,
     smartBackspace: true,
     backDelay: 4000,
@@ -19,7 +19,7 @@ var stefan = new Typed('.stefan', {
 
 
 var tristan = new Typed('.tristan', {
-    strings: ["Creating the next tasks inside gitlab..", "Writing some native code..", "Compiling sdk with gcc..", "Creating Unreal wrapper..", "Creating Unity wrapper.."],
+    strings: ["Creating next tasks in GitLab...", "Writing some native code...", "Compiling the SDK with gcc...", "Creating an Unreal wrapper...", "Creating an Unity wrapper..."],
     typeSpeed: 40,
     startDelay: 1200,
     smartBackspace: true,
@@ -30,7 +30,7 @@ var tristan = new Typed('.tristan', {
 
 
 var kevin = new Typed('.kevin', {
-    strings: ["Tryin' to find some money..", "Creating a visual presentation..", "Callcenter agent with purpose..", "Let excel burn.."],
+    strings: ["Tryin' to find su some money...", "Creating presentations and pitches...", "Callcenter agent with purpose...", "Let Excel burn..."],
     typeSpeed: 40,
     smartBackspace: true,
     backDelay: 4000,
