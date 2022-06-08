@@ -9,12 +9,13 @@ body {
   font-size: 100%;
   vertical-align: baseline;
   scroll-behavior: smooth;
-
   color: white;
 }
+
 .logo-small {
   width: 120px;
 }
+
 .money {
   color: #999999;
   font-size: 40px;
@@ -25,9 +26,11 @@ body {
   font-weight: 300;
   display: block;
 }
+
 input {
   border-radius: 4px;
 }
+
 button,
 .button {
   background: #158077;
@@ -41,17 +44,21 @@ button,
   letter-spacing: 0.3px;
   padding: 0px 20px;
 }
+
 .button-prime {
   background: #167068;
 }
+
 .button-second {
   background: #167068;
 }
+
 button:hover,
 .button:hover {
   background: #292929;
   color: white;
 }
+
 a {
   text-decoration: none;
   color: white;
@@ -60,6 +67,7 @@ a {
 a:hover {
   color: #158077;
 }
+
 header {
   width: 100%;
   padding: 30px 0px;
@@ -77,38 +85,46 @@ h5,
 p {
   word-break: break-word;
 }
+
 header.active {
   background: #131217;
 }
+
 footer {
   padding: 60px 0px;
   background: #131217;
 }
+
 nav.footer-menu {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
 }
+
 nav.header-menu {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
 }
+
 .mainmenu {
   padding: 0;
   margin: 0;
   list-style-type: none;
   display: flex;
 }
-.mainmenu > li {
+
+.mainmenu>li {
   margin-right: 30px;
 }
-.mainmenu > li:last-child {
+
+.mainmenu>li:last-child {
   margin-right: 0;
 }
-.mainmenu > li > a {
+
+.mainmenu>li>a {
   font-size: 16px;
   font-weight: bold;
 }
@@ -118,21 +134,24 @@ nav.header-menu {
   margin-top: 15px;
   color: #999;
 }
+
 .footermenu {
   padding: 0;
-
   margin: 0;
   margin-top: 15px;
   list-style-type: none;
   display: flex;
 }
-.footermenu > li {
+
+.footermenu>li {
   margin-right: 30px;
 }
-.footermenu > li:last-child {
+
+.footermenu>li:last-child {
   margin-right: 0;
 }
-.footermenu > li > a {
+
+.footermenu>li>a {
   font-size: 14px;
   font-weight: normal;
 }
@@ -143,6 +162,7 @@ nav.header-menu {
   justify-content: center;
   display: flex;
 }
+
 .full-width-footer {
   flex: 1 1 auto;
   align-items: center;
@@ -189,6 +209,7 @@ h1,
   margin: 0 auto;
   display: block;
 }
+
 .teaser-text {
   font-weight: 600;
   font-size: 50px;
@@ -200,20 +221,23 @@ h1,
   clear: both;
   text-align: left;
   flex-direction: row;
-
   align-items: center;
   vertical-align: middle;
 }
+
 .items-center {
   align-items: center;
 }
+
 .teaser-text h1 {
   margin: 0;
 }
+
 .form-status {
   padding: 0;
   margin: 0;
 }
+
 h2 {
   font-weight: bold;
   font-size: 40px;
@@ -231,9 +255,11 @@ h2 {
 .perc-100 {
   width: 100%;
 }
+
 .perc-80 {
   width: 80%;
 }
+
 .tx-black {
   color: black;
 }
@@ -245,13 +271,13 @@ p.header-desc {
   text-align: center;
   line-height: 30px;
   padding: 15px 10px;
-
   font-family: "Open Sans";
   font-weight: 600;
   background: #191a1f;
   margin-bottom: 30px;
   border-radius: 4px;
 }
+
 p.desc {
   color: #999;
   font-size: 16px;
@@ -259,7 +285,6 @@ p.desc {
   text-align: center;
   line-height: 30px;
   padding: 15px 0;
-
   font-family: "Open Sans";
   font-weight: 500;
 }
@@ -269,12 +294,11 @@ p.item-desc {
   display: block;
   font-size: 14px;
   line-height: 24px;
-
   color: #8d8d8e;
-
   font-family: "Open Sans";
   font-weight: 600;
 }
+
 .flex-text {
   display: flex;
   flex-direction: row;
@@ -288,7 +312,6 @@ p.item-desc-profile {
   display: block;
   font-size: 16px;
   line-height: 24px;
-
   color: #8d8d8e;
   font-family: "Open Sans";
   font-weight: 500;
@@ -349,25 +372,20 @@ p.item-desc-profile {
   height: 4px;
   background-color: #2e2e2e;
   background: rgb(21, 128, 119);
-  background: linear-gradient(
-    90deg,
-    #167068 0%,
-    rgba(21, 128, 119, 1) 55%,
-    rgba(46, 46, 46, 1) 55%,
-    rgba(46, 46, 46, 1) 100%
-  );
+  background: linear-gradient(90deg, #167068 0%, rgba(21, 128, 119, 1) 55%, rgba(46, 46, 46, 1) 55%, rgba(46, 46, 46, 1) 100%);
 }
 
-.socials > a {
+.socials>a {
   margin-right: 15px;
   color: #4c4949;
   font-size: 30px;
 }
-.socials > a:hover {
+
+.socials>a:hover {
   color: #ffb800;
 }
 
-.socials > a:last-child {
+.socials>a:last-child {
   margin-right: 0px;
 }
 
@@ -406,13 +424,7 @@ p.item-desc-profile {
   position: absolute;
   z-index: 0;
   background: #181818;
-  background: linear-gradient(
-    180deg,
-    #0a0a0a 0%,
-    rgb(14, 14, 14) 30%,
-    #181818 90%,
-    #181818 100%
-  );
+  background: linear-gradient(180deg, #0a0a0a 0%, rgb(14, 14, 14) 30%, #181818 90%, #181818 100%);
 }
 
 .bg-white {
@@ -429,17 +441,11 @@ p.item-desc-profile {
 .tx-white {
   color: white;
 }
+
 #gl {
   background: #181818;
-  background: linear-gradient(
-    180deg,
-    rgb(6, 6, 6) 0%,
-    rgb(14, 14, 14) 30%,
-    #181818 100%
-  );
-
+  background: linear-gradient(180deg, rgb(6, 6, 6) 0%, rgb(14, 14, 14) 30%, #181818 100%);
   background: linear-gradient(180deg, #181818 0%, #131217 90%, #131217 100%);
-
   background-image: linear-gradient(135deg, #111, #131217);
   /*background: linear-gradient(180deg, #0a0a0a 0%, rgb(6 6 6) 40%, #181818 90%, #181818 100%);*/
   background-size: 100%;
@@ -471,7 +477,6 @@ input {
   border: 0;
   font-size: 14px;
   display: inline-block;
-
   line-height: 40px;
   font-weight: bold;
   color: #fff;
@@ -479,6 +484,7 @@ input {
   padding: 0px 20px;
   margin-bottom: 20px;
 }
+
 .money-block {
   background: #191a1f;
   padding: 20px;
@@ -492,8 +498,8 @@ input {
   text-transform: uppercase;
   padding: 0;
 }
+
 .newsletter-block {
-  background: #191a1f;
   text-align: left;
   display: flex;
   justify-content: center;
@@ -501,21 +507,25 @@ input {
   overflow: hidden;
   align-items: center;
 }
+
 .newsletter-block h2 {
   font-size: 30px;
   font-weight: 500;
   text-transform: none;
   padding-bottom: 0;
 }
+
 .newsletter-left {
   margin-right: 50px;
   width: 70%;
   padding: 20px;
 }
+
 .newsletter-right {
   width: 30%;
   padding: 20px;
 }
+
 .newsletter-block p.desc {
   text-align: left;
   font-size: 14px;
@@ -528,6 +538,7 @@ input {
     margin: 0px 40px;
   }
 }
+
 .logo {
   width: 140px;
 }
@@ -536,6 +547,7 @@ input {
   header {
     padding: 20px 0px;
   }
+
   .logo {
     width: 120px;
   }
@@ -551,21 +563,29 @@ input {
     width: 100%;
     margin-bottom: 30px;
   }
+
   .items .item:last-child {
     margin-bottom: 0px;
   }
+
   .hide-on-mobile {
     display: none;
   }
+
   .items,
   .newsletter-block {
     width: 100%;
     flex-direction: column;
   }
+
   .newsletter-right,
   .newsletter-left {
     margin: 20px;
     display: inline-block;
     width: auto;
   }
+}
+
+#my-form input {
+  background: #191a1f;
 }
