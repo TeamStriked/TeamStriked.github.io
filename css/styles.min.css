@@ -10,6 +10,8 @@ body {
   vertical-align: baseline;
   scroll-behavior: smooth;
   color: white;
+      width: 100%;
+    overflow-x: hidden;
 }
 
 .logo-small {
